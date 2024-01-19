@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sensehatss.jpeg
+image: img/sensehatss.jpg
 title: "Tilt Ball PI Game"
 date: 2023
 published: true
