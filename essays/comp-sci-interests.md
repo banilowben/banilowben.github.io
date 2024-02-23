@@ -4,7 +4,7 @@ type: essay
 title: "Surely your joking, Ben"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-26
-published: false
+published: true
 labels:
   - Reflection
 ---
